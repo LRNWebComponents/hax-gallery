@@ -7,7 +7,8 @@
     "polymer": "Polymer/polymer#^1.10.1",
     "hax-body-behaviors": "LRNWebComponents/hax-body-behaviors#^1.12.4",
     "materializecss-styles": "LRNWebComponents/materializecss-styles#^1.2.1",
-    "schema-behaviors": "LRNWebComponents/schema-behaviors#^1.0.0"
+    "schema-behaviors": "LRNWebComponents/schema-behaviors#^1.0.0",
+    "lrndesign-gallery": "LRNWebComponents/lrndesign-gallery"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
