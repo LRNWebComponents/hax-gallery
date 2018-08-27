@@ -8,7 +8,7 @@
     "hax-body-behaviors": "LRNWebComponents/hax-body-behaviors#^1.12.4",
     "materializecss-styles": "LRNWebComponents/materializecss-styles#^1.2.1",
     "schema-behaviors": "LRNWebComponents/schema-behaviors#^1.0.0",
-    "lrndesign-gallery": "LRNWebComponents/lrndesign-gallery^1.0.0",
+    "lrndesign-gallery": "LRNWebComponents/lrndesign-gallery#^1.0.1",
     "simple-colors": "LRNWebComponents/simple-colors#^1.0.5"
   },
   "devDependencies": {
