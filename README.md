@@ -2,19 +2,19 @@
 ```
 <custom-element-demo>
   <template>
-    <link rel="import" href="hax-gallery.html">
+    <link rel="import" href="media-gallery.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
 ```
 -->
 ```html
-<hax-gallery></hax-gallery>
+<media-gallery></media-gallery>
 ```
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/hax-gallery)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/media-gallery)
 
-# \<hax-gallery\>
+# \<media-gallery\>
 
 A LRN element
 

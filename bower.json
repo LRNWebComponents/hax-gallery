@@ -1,8 +1,8 @@
 {
-  "name": "hax-gallery",
+  "name": "media-gallery",
   "description": "A LRN element",
   "license": "Apache-2.0",
-  "main": "hax-gallery.html",
+  "main": "media-gallery.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.10.1",
     "hax-body-behaviors": "LRNWebComponents/hax-body-behaviors#^1.12.4",
